@@ -28,4 +28,8 @@
         <item name="android:colorBackground">@android:color/background_light</item>
     </style>
 
+    <style name="ToolBarWithNavigationBack">
+        <item name="navigationIcon">@drawable/ic_arrow_back</item>
+    </style>
+
 </resources>
